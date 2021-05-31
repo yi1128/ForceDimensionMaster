@@ -1,0 +1,3 @@
+<launch>
+	<node name="Omega_CH2_initialize" pkg="teleoperation_omega_master" type="Omega_CH2_initialize" output="screen"/>
+</launch>
